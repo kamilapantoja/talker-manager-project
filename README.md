@@ -1,4 +1,4 @@
-# talker-manager-project
+# Projeto Talker Manager
 
 Neste projeto foi construído uma aplicação de cadastro de talkers (palestrantes) em que é possível cadastrar, visualizar, pesquisar, editar e excluir informações. Para isto foi desenvolvido:
 
